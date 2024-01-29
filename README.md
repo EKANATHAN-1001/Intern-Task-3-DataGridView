@@ -1,9 +1,9 @@
 # DataGridView
 
-<h4>DataGridView for Employee food count application</h4>
+DataGridView for Employee food count application
 ![image](https://github.com/EKANATHAN-1001/Intern-Task-3-DataGridView/assets/116795679/f9f4af68-3ff3-4814-918f-313dcde42111)
 
-<h4>ComboBox Inside DataGridView</h4>
+ComboBox Inside DataGridView
 ![image](https://github.com/EKANATHAN-1001/Intern-Task-3-DataGridView/assets/116795679/73ee52d9-fc75-47ab-a0da-5aee2a18dccb)
 
 CheckBox Inside DataGridView
